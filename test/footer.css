@@ -1,0 +1,33 @@
+.footerSide {
+    margin-top:80px;
+    padding:10px;
+    }
+.footerLink {
+    color: #C6C6C6;
+    font-family: 'Maven Pro',sans-serif;
+    font-size: 14px;
+}
+.fa {
+    padding: 15px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 10px;
+    border-radius: 50%;
+    color:black;
+    background-color: black;
+  }
+
+  .fa:hover {
+      opacity: 0.7;
+      color:#f4d03f;
+  }
+  .fa-facebook {
+      background: #3B5998;
+  }
+  .fa-instagram {
+      background: #125688;
+  }
+  .fa-linkedin {
+      background: #007bb5;
+  }
